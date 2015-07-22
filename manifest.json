@@ -5,6 +5,14 @@
     {
       "src": "http://travelContoso.azurewebsites.net/images/logo.png",
       "sizes": "150x150"
+    },
+        {
+      "src": "http://travelContoso.azurewebsites.net/images/storelogo.png",
+      "sizes": "50x50"
+    },
+        {
+      "src": "http://travelContoso.azurewebsites.net/images/smalllogo.png",
+      "sizes": "30x30"
     }
   ],
   "display": "fullscreen",
