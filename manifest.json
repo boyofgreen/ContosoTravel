@@ -1,5 +1,5 @@
 {
-  "start_url": "/",
+  "start_url": "http://travelContoso.azurewebsites.net",
   "short_name": "Contoso Travel",
   "icons": [
     {
