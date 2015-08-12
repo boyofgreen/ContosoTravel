@@ -30,7 +30,7 @@
           "url": "https://travelcontoso.azurewebsites.net", "apiAccess":"all"
       }
   ],
-  "display": "fullscreen",
+  "display": "standalone",
   "name": "Contoso Travel",
   "theme_color": "white"
 }
