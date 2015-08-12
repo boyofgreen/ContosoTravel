@@ -15,6 +15,11 @@
       "sizes": "30x30"
     }
   ],
+  "mjs_access_whitelist": [
+      {
+          "url": "https://travelcontoso.azurewebsites.net", "apiAccess":"all"
+      }
+  ],
   "display": "fullscreen",
   "name": "Contoso Travel"
 }
