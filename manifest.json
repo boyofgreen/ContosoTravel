@@ -13,13 +13,24 @@
         {
       "src": "http://travelContoso.azurewebsites.net/images/smalllogo.png",
       "sizes": "30x30"
+    },
+        {
+      "src": "http://travelContoso.azurewebsites.net/images/logo44.png",
+      "sizes": "44x44"
     }
   ],
+    "splash_screens": [
+    {
+      "src": "http://travelContoso.azurewebsites.net/images/splashscreen.png",
+      "sizes": "150x150"
+    }
+    ],
   "mjs_access_whitelist": [
       {
           "url": "https://travelcontoso.azurewebsites.net", "apiAccess":"all"
       }
   ],
   "display": "fullscreen",
-  "name": "Contoso Travel"
+  "name": "Contoso Travel",
+  "theme_color": "white"
 }
