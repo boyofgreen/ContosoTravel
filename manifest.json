@@ -1,6 +1,6 @@
 {
   "start_url": "https://travelContoso.azurewebsites.net",
-  "short_name": "Contoso Travel",
+  "short_name": "Travel Contoso",
   "icons": [
     {
       "src": "http://travelContoso.azurewebsites.net/images/logo.png",
@@ -31,6 +31,6 @@
       }
   ],
   "display": "standalone",
-  "name": "Contoso Travel",
+  "name": "Travel Contoso",
   "theme_color": "white"
 }
