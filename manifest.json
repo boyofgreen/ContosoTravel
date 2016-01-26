@@ -25,12 +25,11 @@
       "sizes": "150x150"
     }
     ],
-  "mjs_access_whitelist": [
-      {
-          "url": "https://travelcontoso.azurewebsites.net", "apiAccess":"all"
-      }
+  "mjs_api_access": [
+      {  "match": "https://travelcontoso.azurewebsites.net", "access": "all", "platform": "windows10"}
   ],
   "display": "standalone",
   "name": "Travel Contoso",
-  "theme_color": "white"
+  "theme_color": "white",
+  "scope":"https://travelcontoso.azurewebsites.net"
 }
